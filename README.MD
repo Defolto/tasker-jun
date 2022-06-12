@@ -15,7 +15,7 @@ git clone https://github.com/Defolto/tasker-jun.git
 ```
 2. Далее создайте ветку со следующим назавнием "дата_время/фамилия". Например: "12.06.22_19:47/Egorov" 
 ```JSON
-git checkout -b 12.06.22_19:47/Egorov
+git checkout -b 12.06.22_19.47/Egorov
 Switched to a new branch "iss53"
 ```
 3. Начинайте добавлять задания
